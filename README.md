@@ -7,9 +7,9 @@ IT Community - Digital Technology Internet Forum HACKERS.GE Choice of enthusiast
 <p>საერთაშორისო აიტი ფორუმი ატარებს შემეცნებით და სადისკუსიო ხასიათს, აქ იკრიბება, როგორც ენთუზიაზმით აღსავსე, ასევე პროფესიონალი ხალხი, რომელიც დაინტერესებული ინფორმაციული ტექნოლოგიებით, კიბერ უსაფრთხოებით და კრიპტო სამყაროთი 
 <p>გისურვებთ წარმატებას  👏
 -------------------------
-Hackers.Ge - Forum Theme [ Work in Progress ] 😎
-https://Hackers.Ge 🥰
-International IT FORUM - Cyber Community 🤝
-The International IT Forum is cognitive and discussion-based, bringing together both enthusiastic and professional people interested in information technology, cyber security and the crypto world.
-Good Luck 👏
-#IT #CyberSecurity #CryptoWorld #Information #Community #აიტი #კიბერუსაფრთხოება #კრიპტომსოფლიო #საინფორმაციო #საზოგადოება | #Hackers #HackersGe
+<p>Hackers.Ge - Forum Theme [ Work in Progress ] 😎
+<p>https://Hackers.Ge 🥰
+<p>International IT FORUM - Cyber Community 🤝
+<p>The International IT Forum is cognitive and discussion-based, bringing together both enthusiastic and professional people interested in information technology, cyber security and the crypto world.
+<p>Good Luck 👏
+<p>#IT #CyberSecurity #CryptoWorld #Information #Community #აიტი #კიბერუსაფრთხოება #კრიპტომსოფლიო #საინფორმაციო #საზოგადოება | #Hackers #HackersGe
